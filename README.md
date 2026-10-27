@@ -281,6 +281,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 **Project Maintainer:** Md Rafiul Islam  
 **Project Link:** [https://github.com/Rafiul29/point-of-sale.git](https://github.com/Rafiul29/point-of-sale.git)
-#   s m a r t _ i n v e n t o r y _ p o s _ a n d _ i n v o i c e _ s y s t e m i t  
- #   s m a r t _ i n v e n t o r y _ p o s _ a n d _ i n v o i c e _ s y s t e m i t  
- 
