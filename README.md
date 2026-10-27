@@ -279,5 +279,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## Contact
-**Project Maintainer:** Md Rafiul Islam  
-**Project Link:** [https://github.com/Rafiul29/point-of-sale.git](https://github.com/Rafiul29/point-of-sale.git)
+**Project Maintainer:** Shouna Jahan  
+**Project Link:** [https://github.com/ShounaJahan/smart_inventory_pos_and_invoice_systemit.git](https://github.com/ShounaJahan/smart_inventory_pos_and_invoice_systemit.git)
